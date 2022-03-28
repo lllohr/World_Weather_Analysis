@@ -26,3 +26,5 @@ Some of the most difficult challenges I faced was using the to_numpy() function 
 ![WeatherPy Travel Map Marker](https://github.com/lllohr/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 ![WeatherPy Travel Map Marker 2](https://github.com/lllohr/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers_2.png)
+
+![Hotels Map](https://github.com/lllohr/World_Weather_Analysis/blob/main/Vacation_Search/Hotel_Popup.png)
